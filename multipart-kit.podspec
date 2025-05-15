@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
     "Frank" => "472730949@qq.com"
   }
   spec.source       = {
-    :git => "https://github.com/vapor/multipart-kit.git", :tag => spec.version
+    :git => "https://github.com/fitygrey/multipart-kit.git", :tag => spec.version
   }
 
   spec.source_files = "{Core,Extensions}/**/*.{h,m}"
