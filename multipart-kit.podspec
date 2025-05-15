@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "multipart-kit"
-  spec.version      = "2.3.1"
+  spec.version      = "4.7.1"
   spec.summary      = "A small, lightweight, embeddable HTTP server for Mac OS X or iOS applications."
   spec.license      = "BSD"
   spec.homepage     = "https://github.com/fitygrey/multipart-kit"
